@@ -1,4 +1,4 @@
-<img src="./assets/icon.png" align="right" width="200"/>
+<img src="assets/appIcon.png" align="right" width="200"/>
 
 # NanoleafMusic
 
